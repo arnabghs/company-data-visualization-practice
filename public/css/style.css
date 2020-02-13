@@ -15,6 +15,6 @@
 	text-anchor: middle;
 }
 
-/* svg>g>rect {
-	fill: grey;
-} */
+.x-axis text {
+	font-weight: bold;
+}
